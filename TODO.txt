@@ -1,0 +1,5 @@
+0. ACTUALLY WRITE GOOD CODE
+1. Add actual functionality
+2. Add file IO for loading book lists
+3. Add local path for file opening
+
